@@ -1,2 +1,2 @@
-# Learnerhub
-This project is developed for helping JEE Aspirants. It identifies your weaknessess and suggests material according to it. It first assess you with our customized test for identifying the weakness and then helps accordingly.
+# LearnerHub
+This project is developed to help JEE Aspirants. It identifies your weaknesses and suggests material according to them. It first assesses you with our customized test to determine your weaknesses and then helps you accordingly.
